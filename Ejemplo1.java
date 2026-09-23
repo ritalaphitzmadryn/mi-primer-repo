@@ -22,7 +22,6 @@ class TestMovilidadDigital {
     private Conductor conductor2;
     private Conductor conductor3;
     private Conductor conductor4;
-    private Conductor conductor5;
     
     
 
