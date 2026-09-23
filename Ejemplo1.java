@@ -29,7 +29,7 @@ class TestMovilidadDigital {
     void setUp() {
         auto1 = new Auto("AAA111", "Cronos");
         auto2 = new Auto("BBB222", "Corolla");
-        moto1 = new Moto22("CCC333", "Honda Wave");
+        moto1 = new Moto1("CCC333", "Honda Wave");
 
         conductor1 = new Conductor("Carlos", "20-11111111-2");
         conductor2 = new Conductor("Ana", "27-22222222-7");
